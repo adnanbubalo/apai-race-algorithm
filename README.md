@@ -1,5 +1,5 @@
 # Graph coloring problem solver 
-Algorithm made to solve the graph coloring problem (GCP)\
+Local search algorithm made to solve the graph coloring problem (GCP)\
 Made for the subject Advanced Programming in Artificial Intelligence\
 The algorithm takes longer to solve more complicated graphs
 # Generating a random graph 
